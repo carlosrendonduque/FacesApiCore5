@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "FBf6PHFx3seps/w0ocxEpVK08WO7l8kOCXTFMohzkIp+NlLO6B5zI7gSOmzDfb+DK8+ZMphWe9iWnK1mjfxMpQ==",
+  "dgSpecHash": "B54roO7tC95sxceQD/WadRN22d792emtOfopwm8BsTlsLYDPndOXAiFDcyWzd6i01VIC2LXFN3g3m7d3moUeAQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\CARLOS\\FacesAndMoreFaces\\FacesApiCore5\\FacesApi.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\CARLOS\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\CARLOS\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\CARLOS\\.nuget\\packages\\opencvsharp4\\4.3.0.20200524\\opencvsharp4.4.3.0.20200524.nupkg.sha512",
+    "C:\\Users\\CARLOS\\.nuget\\packages\\opencvsharp4.runtime.win\\4.3.0.20200524\\opencvsharp4.runtime.win.4.3.0.20200524.nupkg.sha512",
+    "C:\\Users\\CARLOS\\.nuget\\packages\\opencvsharp4.windows\\4.3.0.20200524\\opencvsharp4.windows.4.3.0.20200524.nupkg.sha512",
+    "C:\\Users\\CARLOS\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\CARLOS\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512"
+  ],
   "logs": []
 }
