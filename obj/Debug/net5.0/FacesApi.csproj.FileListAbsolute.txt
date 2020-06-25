@@ -1,0 +1,14 @@
+C:\Users\CARLOS\source\repos\FacesAndMoreFaces\FacesApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\CARLOS\source\repos\FacesAndMoreFaces\FacesApi\bin\Debug\net5.0\appsettings.json
+C:\Users\CARLOS\source\repos\FacesAndMoreFaces\FacesApi\bin\Debug\net5.0\Properties\launchSettings.json
+C:\Users\CARLOS\source\repos\FacesAndMoreFaces\FacesApi\bin\Debug\net5.0\FacesApi.exe
+C:\Users\CARLOS\source\repos\FacesAndMoreFaces\FacesApi\obj\Debug\net5.0\FacesApi.AssemblyInfoInputs.cache
+C:\Users\CARLOS\source\repos\FacesAndMoreFaces\FacesApi\obj\Debug\net5.0\FacesApi.AssemblyInfo.cs
+C:\Users\CARLOS\source\repos\FacesAndMoreFaces\FacesApi\obj\Debug\net5.0\FacesApi.RazorTargetAssemblyInfo.cache
+C:\Users\CARLOS\source\repos\FacesAndMoreFaces\FacesApi\obj\Debug\net5.0\staticwebassets\FacesApi.StaticWebAssets.Manifest.cache
+C:\Users\CARLOS\source\repos\FacesAndMoreFaces\FacesApi\obj\Debug\net5.0\staticwebassets\FacesApi.StaticWebAssets.xml
+C:\Users\CARLOS\source\repos\FacesAndMoreFaces\FacesApi\bin\Debug\net5.0\OpenCvSharp.Blob.dll
+C:\Users\CARLOS\source\repos\FacesAndMoreFaces\FacesApi\bin\Debug\net5.0\OpenCvSharp.Extensions.dll
+C:\Users\CARLOS\source\repos\FacesAndMoreFaces\FacesApi\bin\Debug\net5.0\OpenCvSharp.dll
+C:\Users\CARLOS\source\repos\FacesAndMoreFaces\FacesApi\obj\Debug\net5.0\FacesApi.csprojAssemblyReference.cache
+C:\Users\CARLOS\source\repos\FacesAndMoreFaces\FacesApi\obj\Debug\net5.0\FacesApi.csproj.CopyComplete
